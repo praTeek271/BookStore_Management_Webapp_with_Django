@@ -22,4 +22,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses threading module
+- uses selenium
