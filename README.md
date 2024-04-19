@@ -24,4 +24,4 @@ This Repo consists of the following files :
 <br>
 
 
-- can be used for any repo
+- this is a test repo
