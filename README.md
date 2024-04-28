@@ -1,4 +1,4 @@
-# BookStore_Management_Webapp_with_Django
+# bookstore_management_webapp_with_django
 This Repo consists of the following files :
 - .git
 - .gitignore
@@ -24,4 +24,4 @@ This Repo consists of the following files :
 <br>
 
 
-- uses python
+- can be used for any repository
