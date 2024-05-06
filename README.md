@@ -24,4 +24,4 @@ This Repo consists of the following files :
 <br>
 
 
--  created by prateek
+- i am a bot
